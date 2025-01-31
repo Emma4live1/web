@@ -1,0 +1,60 @@
+<?php
+
+?>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My Profile</title>
+<link rel="stylesheet" href="about.css">
+</head>
+<body>
+
+<h2 >Alhassan Ojonugwa Emmanuel's Profile</h2>
+<p> My name is <b>  Alhassan Ojonugwa Emmanuel,</b> I am from Kogi State Nigeria. I am a student of Benue State University, studying Computer Science. I am a very enthusiastic person who loves to improve himself in any given way. My goal is to develop innovative software solutions and start my own tech company. </p>
+<img src="./img1.jpg" alt="Image" width="30%">
+<h4 style="color: navy;">Interests</h4>
+<ul>
+<li>Software Development</li>
+<li>Networking</li>
+<li>UI/UX Design</li>
+</ul>
+<h4  style="color: navy;">My Hobbies</h4>
+<ul>
+<li>Reading</li>
+<li>Learning new technology</li>
+<li>Singing</li>
+<li>Football</li>
+</ul>
+<h4 style="color: navy;">Level of Studies</h4>
+<ul>
+<li>First School Leaving Certificate(FSLC)</li>
+<li>Senior School Certificate Examination(SSCE)</li>
+</ul>
+ <h4 style="color: navy;">Work Experience</h4>
+ <ul>
+  <li>Diploma in Computer Operations</li>
+ </ul>
+ <h4 style="color: navy;">Movies</h4>
+ <ul>
+  <li>War Room produced by Alex Kendrick</li>
+  <li>Chariots of fire by Hugh Hudson</li>
+ </ul>
+ <h4 style="color: navy;">Wise sayings</h4>
+ <ul>
+  <li>Your Passion fuels your determination for success.</li>
+  <li>Believing in yourself is the first secret to success.</li>
+ </ul>
+ <p>
+ </p>
+ <br>
+ <div class="em">
+ <a href="about.html">click here for Benue Tech info</a></div>
+ <br>
+ <br>
+</body>
+</html>
+

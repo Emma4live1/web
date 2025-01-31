@@ -1,0 +1,33 @@
+ h2{
+  color: blue;
+ }
+h3{
+ color: blue;
+}
+.head h5{
+ text-align: justify;
+ justify-content: center;
+}
+.head h5 a{
+text-decoration: none;
+}
+.head h5 a:hover{
+ color: red;
+ transition: 1.5s;
+}
+ .em a{
+text-decoration: none;
+border: 1px solid black;
+padding: 6px;
+background-color: blue;
+color: white;
+font-size: 11px;
+}
+.em a:hover{
+ color: red;
+ transition: 1s;
+}
+body{
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ 
+ }
